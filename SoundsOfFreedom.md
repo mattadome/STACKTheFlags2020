@@ -27,6 +27,7 @@ I had to up my Google-fu game. I thought of possible types of places where a bod
 Now, with that information, it would be pretty simple to find. There are only so many parks with lakes that can be overlooked from a condominium while at the same time having HDB flats in view. So I Googled it.
 
 (Yes, I really just searched for "parks with lakes singapore".)
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2Fdb35py0zQF.png?alt=media&token=874f0f4e-fe27-413b-9bc4-23cf32282d56)
 
 
