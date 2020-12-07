@@ -8,6 +8,7 @@ You are given this image and have to find the time, date and place (in GPS coord
 
 
 First things first, in hopes that I could get the flag on my first attempt I used EXIFTool to get all metadata of the file. EXIFTool is an insanely useful tool that manages to list out information such as GPS coordinates that the photo was taken at, and sometimes even the make of the camera taking the photo!
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2Fq3bnLWTPUK.png?alt=media&token=99d841a9-63f8-4a6b-ac6e-d19679f5fc6d)
 
 
