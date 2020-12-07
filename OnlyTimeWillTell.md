@@ -1,9 +1,14 @@
 ## OSINT - Only Time Will Tell
 
 ### Introduction
-
+-----
+Over the past weekend, despite being swamped with projects and presentations to prepare from, I managed to take a short breather to attempt some challenges for the GovTech CTF - STACK The Flags 2020! I really wish
 This was a pretty fun, albeit easy, challenge. Definitely had some feelings of **power** when I solved this though! Let's get into how I managed to solve it.
 
+
+
+### Solution
+-----
 You are given this image and have to find the time, date and place (in GPS coordinate) that this photo was taken. Sounds easy enough, right?
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2Fp34bqKzN2l.png?alt=media&token=4c9ed79d-d1dd-492c-b2cf-6c11fde01799)
 
@@ -44,6 +49,9 @@ Because it was pretty clear that the sun was beating down furiously from the wes
 I picked the first base time 3pm and put it in the 2 hour block format of `1500-1700` and got the new flag of `govtech-csg{1.286647_103.846836_2020:10:25_1500-1700}` which was, thankfully, correct on the first try!
 
 
+
+
 ### Thoughts and Conclusions
+-----
 
 
