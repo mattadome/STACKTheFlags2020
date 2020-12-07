@@ -19,6 +19,7 @@ I converted the GPS Latitude and Longitude with the provided calculator
 Next, pulled the date and time from the File Modified time and got this flag: `govtech-csg{1.286647_103.846836_2020:12:01_1000-1200} ` 
 
 Obviously, this flag was wrong because they would not make it that simple for us to solve. Next I noticed that there was a small barcode at the bottom of the image, so I cropped it out and ran it through a barcode scanner.
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2FT3D6sdO1rj.png?alt=media&token=a8da5a20-3c96-432d-a55c-297b0a1e4909)
 
 
@@ -29,8 +30,13 @@ This flag still did not work so I had to take a step back and ask myself: "What 
 The picture was pretty self explanatory with the sign clearly being at Speaker's Corner but knowing next to nothing about the geography of Singapore, I had no clue what cardinal direction this sign was facing.
 
 Thankfully, Google Maps automatically sets their maps to face the North so finding the sign was a lot less difficult than I thought it would be. I loaded up the general location of Speaker's Corner on Google Maps Satellite View.
-    - After poking around, I realised that the sign seen in the picture was in the red circle below:
+
+After poking around, I realised that the sign seen in the picture was in the red circle below:
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2FQJ4-fBL9is.png?alt=media&token=adc4ea85-b5d3-4996-8690-cbe7df2c5c9e)
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2FOzZIKuy7xK.png?alt=media&token=c23de3b7-f7c5-4a52-905b-c22248d4a18a)
-    - Because it was pretty clear that the sun was beating down furiously from the west (the shadow was pretty long, after all), it was safe to assume that the most likely possible base times would be 3pm, 4pm or 5pm. At 6pm, the picture would have an orange hue, and at 7pm the picture would be too dark to be midday.
-    - I picked the first base time 3pm and put it in the 2 hour block format of `1500-1700` and got the new flag of `govtech-csg{1.286647_103.846836_2020:10:25_1500-1700}` which was, thankfully, correct on the first try!
+
+Because it was pretty clear that the sun was beating down furiously from the west (the shadow was pretty long, after all), it was safe to assume that the most likely possible base times would be 3pm, 4pm or 5pm. At 6pm, the picture would have an orange hue, and at 7pm the picture would be too dark to be midday.
+
+I picked the first base time 3pm and put it in the 2 hour block format of `1500-1700` and got the new flag of `govtech-csg{1.286647_103.846836_2020:10:25_1500-1700}` which was, thankfully, correct on the first try!
