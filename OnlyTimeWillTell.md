@@ -56,4 +56,6 @@ I picked the first base time 3pm and put it in the 2 hour block format of `1500-
 ### Thoughts and Conclusions
 -----
 
+I have never really faced a challenge like this before so it was actually really fun iterating through the different solutions I came up with. I definitely learned a little bit about taking advantage of **all** the information presented to you. It felt really rewarding to derive my answer with the use of Google Maps, something that I did not imagine I would ever do! 
+
 
