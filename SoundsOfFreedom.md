@@ -39,11 +39,22 @@ This leaves Punggol Park as the first one to check out. Opening it in Google Map
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2FuuNl0d18QI.png?alt=media&token=f1e961d3-0aef-4817-bf94-c67bfaa6c5a6)
 
 
-Upon closer inspection, there is not only a new/fancy HDB to overlook the park (Hougang ParkEdge) but also a set of HDB blocks behind the park that match up in practically the same way as the video
+Upon closer inspection, there is not only a new/fancy HDB to overlook the park (Hougang ParkEdge) but also a set of HDB blocks behind the park that match up in practically the same way as the video too!
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2FaG-6aI-TwL.png?alt=media&token=358906d4-b85c-402d-8d5e-fcf8035d9ac1)
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2FpNiLpzVJK9.png?alt=media&token=a162f084-a551-4c94-af42-ce02ec3cbcc1)
 
-The postal code for Punggol Park is 538768, making the flag `govtech-csg{538768}`, which was correct! Hooray for specific Googling!
+I digged a little further and found out that flying kites is actually prohibited at Punggol Park because of near by airbase (Paya Lebar Airbase), which could explain the noises in the video. I was sure that this was the right place.
+
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FFirstDatabase%2F6Z_fAuQna-.png?alt=media&token=6dd9dafd-3131-456a-9816-fcb1407576cc)
+
+The postal code for Punggol Park is 538768, making the flag `govtech-csg{538768}`. I submitted it and... It was correct! Hooray for specific Googling!
 ![Pepe Silvia | Know Your Meme](https://i.kym-cdn.com/entries/icons/original/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg)
+
+
+
+### Thoughts and Conclusions
+----
+
+My lines for solving this challenge were pretty interesting and, in my opinion, pretty out of my comfort zone. While I used Google Maps to find the cardinal direction of a sign in the previous challenge, stretching the same tool even further and using it in a slightly different way this time was an absolute blast! This challenge really reaffirmed the need to make use of every single bit of information that is given to you.
