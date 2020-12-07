@@ -1,5 +1,7 @@
 ## OSINT - Only Time Will Tell
-    
+
+### Introduction
+
 This was a pretty fun, albeit easy, challenge. Definitely had some feelings of **power** when I solved this though! Let's get into how I managed to solve it.
 
 You are given this image and have to find the time, date and place (in GPS coordinate) that this photo was taken. Sounds easy enough, right?
@@ -40,3 +42,8 @@ After poking around, I realised that the sign seen in the picture was in the red
 Because it was pretty clear that the sun was beating down furiously from the west (the shadow was pretty long, after all), it was safe to assume that the most likely possible base times would be 3pm, 4pm or 5pm. At 6pm, the picture would have an orange hue, and at 7pm the picture would be too dark to be midday.
 
 I picked the first base time 3pm and put it in the 2 hour block format of `1500-1700` and got the new flag of `govtech-csg{1.286647_103.846836_2020:10:25_1500-1700}` which was, thankfully, correct on the first try!
+
+
+### Thoughts and Conclusions
+
+
